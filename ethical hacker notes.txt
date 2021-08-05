@@ -1,0 +1,47 @@
+echo caleb
+    2  ping 1.1.1.1
+    3  echo caleb
+    4  echo jungle
+    5  clear
+    6  0ping 1.1.1.1
+    7  ping 1.1.1.1
+    8  apt install fortune
+    9  fortune
+   10  apt purge fortune
+   11  sudo apt update
+   12  apt update
+   13  apt upgrade /y
+   14  apt upgrade -y
+   15  apt install toilet
+   16  clear
+   17  toilet -f mono12 -F metal caleb
+   18  clear
+   19  curl parrot.live
+   20  clear
+   21  apt install sl
+   22  sl
+   23  clear
+   24  apt install cowsay
+   25  apt install fortune
+   26  clear
+   27  fortune
+   28  clear
+   29  apt cowsay fortune
+   30  clear
+   31  fortune | cowsay
+   32  apt cowsay
+   33  fortune| cowsay
+   34  fortune \ cowsay
+   35  fortune | cowsay
+   36  apt install rig
+   37  rigk
+   38  eclear
+   39  rig
+   40  rig | rig
+   41  cowsay | rig
+   42  history
+
+
+
+
+link for recordings and other information from cyber woriers class. https://winter-record-c29.notion.site/b4779a3a89ac4bf584575345bc234f5a?v=1f378eb9963443849b25540a110a4fc9&p=cae5a259d6254896a35aabab5e349c6f
